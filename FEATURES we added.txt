@@ -1,0 +1,12 @@
+1---IN home page we use PAGINATION
+2-When we signup we have got a mail that is send by my email  says user signup successfully using nodemailer
+3-for admin dashbord 
+we can add  ,update and delete the products by admin dashboard
+for image uploading we use multer function 
+for uploading the image
+we can review the product and get a average Rating that shown in the product cards
+we can reset the user password 
+card badge is responsive of the products quantity
+
+
+IF YOU WANT TO ACCESS ADMIN DASHBOARD MANUALLY MAKE  YOUR USERS ISAUTH TO TRUE ,,
